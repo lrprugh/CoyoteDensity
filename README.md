@@ -1,0 +1,1 @@
+R code and input files for estimating coyote density using spatial capture-recapture models in Seattle and 2 wildland areas of Washington State. Each study area has 3 input files: a "mask" file with spatial covariates, a "capt" file with the capture history of individual coyotes (via genotyped scats), and a "trap" file with locations of the spatial grid cells.
